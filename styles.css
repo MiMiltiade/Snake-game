@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 4em;
+    text-shadow: 3px 3px 4px black ;
+}
+
+p {
+    text-align: center;
+}
+
+body
+{
+    
+    color: black;
+    background-color: white;
+    background-image: url(images/1055266.png);
+    margin: 0;
+    background-position: 5% 10%;
+    background-repeat: no-repeat;
+    min-width: 100%;
+    min-height: 100%;
+
+}
