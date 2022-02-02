@@ -1,3 +1,3 @@
 # Snake-game
-A snake Game inspired by a class lesson 
+A snake Game inspired by a lesson 
 
